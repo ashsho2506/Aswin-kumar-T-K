@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Aswin Kumar T K</h1>
+
 # 📊 Aspiring Financial Analyst | Banking Professional
 
 ![Banner](https://via.placeholder.com/1000x200.png?text=Finance+%7C+Modeling+%7C+Analysis)
