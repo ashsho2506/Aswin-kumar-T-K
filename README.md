@@ -20,7 +20,7 @@ I bring hands-on banking experience and a growing expertise in **financial model
 
 ---
 
-## 🛠️ Technical Tools
+## 🛠️ Technical Tools                          
 
 | Tool        | Skill Level    |
 |-------------|----------------|
@@ -28,6 +28,23 @@ I bring hands-on banking experience and a growing expertise in **financial model
 | PowerPoint  | Professional   |
 | Power BI    | Intermediate   |
 | SQLite      | Basic          |
+
+🛠️ Tools I Use
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+    <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019.png" alt="PowerPoint" width="50"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="50"/>
+  </a>
+</p>
 
 ---
 
