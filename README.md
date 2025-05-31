@@ -46,4 +46,19 @@ I bring hands-on banking experience and a growing expertise in **financial model
 
 ![Power BI Sample](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
 
-### 📑 3-
+📑 3-Statement Excel Model
+> Income Statement, Balance Sheet, and Cash Flow integrated into a dynamic Excel model
+
+![Excel Model](https://via.placeholder.com/800x400.png?text=3-Statement+Model)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/ashwin-kumar-34568a103)
+- 📧 Email: ashsho2506@gmail.com
+---
+
+> 💡 I'm actively seeking **Financial Analyst - Entry Level / Fresher** roles. With solid banking experience and a strong financial foundation, I'm ready to bring value to your team.
+
+![Thanks Footer](https://via.placeholder.com/1000x100.png?text=Thanks+for+visiting+my+profile!)
