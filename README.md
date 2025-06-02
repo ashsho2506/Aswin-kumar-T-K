@@ -57,7 +57,7 @@ I bring hands-on banking experience and a growing expertise in **financial model
 
 ---
 
-## 📘 Projects
+## 📘 Personal Portfolio Projects
 
 ### 📊 Financial Statement Analysis (Power BI)
 
