@@ -2,7 +2,6 @@
 
 # 📊 Aspiring Financial Analyst | Banking Professional
 
-![Banner](https://via.placeholder.com/1000x200.png?text=Finance+%7C+Modeling+%7C+Analysis)
 
 Hi! I'm a **banking professional with 4.7 years of experience**, now looking to transition into a **Financial Analyst (fresher) role**. With a strong foundation in finance and data tools, I’m passionate about building insights from numbers.
 
@@ -60,24 +59,35 @@ I bring hands-on banking experience and a growing expertise in **financial model
 
 ## 📘 Projects
 
-### 📊 Financial Dashboard (Power BI)
-> Visual representation of key financials including P&L, Balance Sheet & Cash Flow
+### 📊 Financial Statement Analysis (Power BI)
 
-![Power BI Sample](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard)
+(https://github.com/ashsho2506/EvoSoft-Financial-Statement-Analysis-Power-BI.git)
 
-📑 3-Statement Excel Model
+📑 3-Statement Financial Model in MS Excel 
+
 > Income Statement, Balance Sheet, and Cash Flow integrated into a dynamic Excel model
 
-![Excel Model](https://via.placeholder.com/800x400.png?text=3-Statement+Model)
+(https://github.com/ashsho2506/EdgeFin-Colsulting-Three-Statement-Financial-Model.git)
+
+(https://github.com/ashsho2506/Omnigro-Retail-Corp-Three-Statement-Financial-Model.git)
+
+ 📊 Financial Reporting (PowerPoint)
+
+(https://github.com/ashsho2506/EdgeFin-Consulting-Financial-Reporting-Power-Point.git)
+
+(https://github.com/ashsho2506/Omnigro-Retail-Corp-Financial-Reporting-Power-Point.git)
+
+ 📑 Financial Accounting Analysis in MS Excel
+ 
+(https://github.com/ashsho2506/Saldi-Financial-Accounting-Analysis-.git)
 
 ---
-
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/ashwin-kumar-34568a103)
 - 📧 Email: ashsho2506@gmail.com
 ---
 
-> 💡 I'm actively seeking **Financial Analyst - Entry Level / Fresher** roles. With solid banking experience and a strong financial foundation, I'm ready to bring value to your team.
+> 💡 I'm actively seeking **Financial Analyst - Entry Level roles. With solid banking experience and a strong financial foundation, I'm ready to bring value to your team.
 
 ![Thanks Footer](https://via.placeholder.com/1000x100.png?text=Thanks+for+visiting+my+profile!)
