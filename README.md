@@ -84,7 +84,7 @@ I bring hands-on banking experience and a growing expertise in **financial model
 ---
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/ashwin-kumar-34568a103)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/aswin-kumar-t-k-34568a103/)
 - 📧 Email: ashsho2506@gmail.com
 ---
 
